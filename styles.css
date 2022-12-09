@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#skills{
+    color:pink;
+    font-family:courier;
+    font-size:20px;
+}
+#projects{
+    color:aquamarine;
+    font-family:verdana;
+    font-size:20px;
+}
